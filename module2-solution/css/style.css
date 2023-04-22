@@ -48,6 +48,7 @@ body {
 h1 {
     font-size: 2.1875rem;
 }
+
 h3 {
     box-sizing: border-box;
     border: 1px solid black;
@@ -59,16 +60,16 @@ h3 {
     position: absolute;
     right: 0;
     font-size: 1.5625rem;
-    
 }
 
-section {
+.wrapper {
     position: relative;
 }
 
 section p {
     font-size: 1.25rem;
 }
+
 
 /* Media queries */
 @media screen and (min-width: 992px) {
