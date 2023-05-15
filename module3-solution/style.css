@@ -11,3 +11,8 @@
     border: 0 !important;
   }
 }
+
+.tall-section {
+    background-color: grey;
+    height: 1000px;
+}
